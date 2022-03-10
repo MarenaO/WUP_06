@@ -69,7 +69,7 @@ According to the plots shown, I can conclude that there is a significant differe
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
-
+According to the numerical data, it is clear that white people favor capitol punishment more than black people and other people. Although, there is evidence to believe that there is a difference between black people and white people, and a difference between black people and the other people. The majority of white people and the majority of other people are in favor of capitol punishment, and the majority of black people are against capitol punishment. Therefore, I can suspect that the black people are different than the white people and other people.
 
 
 ## Now with More data
