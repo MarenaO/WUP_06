@@ -63,7 +63,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-
+According to the plots shown, I can conclude that there is a significant difference between black people compared to white people and other people on their opinion towards capitol punishment, either favoring or opposing it. For white people and other people, they both favor capitol punishment more than they oppose it. For black people, they oppose it more than they favor it.
 
 ### Numerical Descriptive Results
 
