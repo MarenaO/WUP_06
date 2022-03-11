@@ -43,7 +43,7 @@ If not, then whose view differs from whom??
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question. Bottom line is to explain the features of the graph that are relevant to conforming or departing to what is expected by your null hypothesis !-->
 
-
+According to the graphical results, it seems like there is a significant difference between the black and the whites, as well as the blacks and the other people. This was concluded because in the percentage plot, the bars for both the whites and other people were both way above the bar for the black people favoring capitol punishment. Although, the bars for both the whites and others looks about the same so there seems to not be a significant difference between the whites and the other people.
 
 ## Now with LESS data (more variables give less data due to NA's)
 
