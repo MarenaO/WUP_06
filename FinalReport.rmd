@@ -69,7 +69,7 @@ basicCC + geom_bar(stat="identity", position = "dodge")
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 
-
+According to the numerical data, it is evident that there is not a difference between tghe whites and the other people. Their data seems to be nearly the same (with a similar amount of people favoring or opposing capitol punishment). The only different one is the blacks. Their numbers were way more different than those of the whites and others. So, I can assume that there is most likely a statistically significant difference between the blacks and whites and the blacks and other people on their attitude towards capitol punishment.
 
 ## Now with less data
 
