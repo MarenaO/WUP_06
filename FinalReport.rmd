@@ -101,6 +101,7 @@ fisher.test(table2)
 fisherXY(mydata$cappun,mydata$race)
 ```
  
+Running the Fisher test with blacks and whites, I can conclude that there is a statistically significant difference between whites and blacks and their attitude towards capitol punishment. This was concluded by getting a low p-value in the data. Comparing whites and others, I can conclude that there is a statistically significant difference between whites and others. Again, this was concluded by getting a low p-value in the data. Comparing black and others, I also got a low p-value. meaning that there is a statistically significant  difference between blacks and others. Therefore, I can conclude that there is a statistically significant difference between all blacks, whites, and others in the data given. This means that each is different from the other with their attitude towards capitol punishment.
 
 # Discussion and Conclusion
 
